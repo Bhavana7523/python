@@ -1,0 +1,9 @@
+x=int(input("Enter a value"))
+y=int(input("Enter a value"))
+z=int(input("Enter a value"))
+if a>b and a>c:
+  print(a)
+elif b>c:
+  print(b)
+else:
+  print(c)
