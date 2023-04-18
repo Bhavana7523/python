@@ -1,9 +1,24 @@
 x=int(input("Enter a value"))
 y=int(input("Enter a value"))
 z=int(input("Enter a value"))
-if a>b and a>c:
-  print(a)
-elif b>c:
-  print(b)
+if (a==b):
+print("a and b are equal")
+if(a>c):
+ print("a is greater")
+else
+ print("c is greater")
+elif (b==c):
+print("b and c are equal")
+if(b>a):
+  print("b is greater")
 else:
-  print(c)
+  print("c is greater")
+elif:
+print("a and c are equal)
+if(a>b):
+  print("a is greater")
+else:
+  print("b is greater")
+ 
+
+
